@@ -20,6 +20,7 @@ def browser(request):
     service = Service(executable_path=ChromeDriverManager().install())
 
     driver = webdriver.Chrome(options=options, service=service)
+
     yield driver
     driver.quit()
 
