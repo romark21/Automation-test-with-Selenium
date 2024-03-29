@@ -1,5 +1,3 @@
-# Automation-test-with-Selenium
-
 # A small framework implementing the Page Object pattern.
 
 Completed tasks:
