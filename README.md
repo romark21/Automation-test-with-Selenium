@@ -1,3 +1,5 @@
+# A small framework implementing the Page Object pattern
+
 A small framework implementing the Page Object pattern.
 Completed tasks:
 Base page for the project: BasePage 
